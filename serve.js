@@ -22,6 +22,6 @@ app.get('/module', (req, res) => {
     res.render('api.html')
 })
 
-app.listen(3000, () =>{
+app.listen(3000, '0.0.0.0' () =>{
     console.log('Trwa nasluchiwanie')
 });
