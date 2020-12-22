@@ -1,0 +1,17 @@
+{
+  "name": "santatracker",
+  "version": "1.0.0",
+  "description": "Strona santatracker",
+  "main": "serve.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": [],
+  "author": "kontobardzofajne@gmail.com",
+  "license": "ISC"
+}

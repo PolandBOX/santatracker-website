@@ -1,0 +1,43 @@
+{
+    "name": "SantaTracker",
+    "short_name": "SantaTracker",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#dc3545",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "https://img.icons8.com/fluent/72/000000/santa.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "https://img.icons8.com/fluent/96/000000/santa.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "https://img.icons8.com/fluent/128/000000/santa.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "https://img.icons8.com/fluent/144/000000/santa.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "https://img.icons8.com/fluent/152/000000/santa.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "https://img.icons8.com/fluent/192/000000/santa.png",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "https://img.icons8.com/fluent/384/000000/santa.png",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "https://img.icons8.com/fluent/512/000000/santa.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
